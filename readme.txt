@@ -6,3 +6,4 @@ Creating a new branch is quick.
 <<<<<<< HEAD
 reating a new branch is quick and simple.
 >>>>>>> feature1
+create a new add merge.
